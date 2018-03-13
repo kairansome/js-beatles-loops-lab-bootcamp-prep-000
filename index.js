@@ -23,5 +23,5 @@ var array = []
     i++
   }
   while ((i)< 15)
-  
+ return array 
 }
