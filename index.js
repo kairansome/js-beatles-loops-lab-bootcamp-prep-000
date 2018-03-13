@@ -17,11 +17,11 @@ function johnLennonFacts(facts) {
   return array; 
 }
 
-function iLoveTheBeatles (number) {
+function iLoveTheBeatles (i) {
 var array = []
   do { array.push('I love the Beatles!');
-    number++
+    i++
   }
-  while ((number)< 15)
+  while ((i)< 15)
   
 }
